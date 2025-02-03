@@ -1,0 +1,1 @@
+The monotone chain still performs more quickly than Graham's scan for all tested values of n.

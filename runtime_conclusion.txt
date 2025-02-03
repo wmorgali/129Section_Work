@@ -1,0 +1,7 @@
+Based on the averaged runtime comparison over 5 trials:
+- The Monotone Chain algorithm is generally faster than Graham's Scan.
+- Graham's Scan involves sorting and additional computations, making it slower.
+- Monotone Chain runs in O(n log n), similar to Graham’s Scan, but with fewer operations.
+- For large n, the difference in execution time becomes more significant.
+
+Overall, Monotone Chain is preferable for computing the convex hull efficiently.
